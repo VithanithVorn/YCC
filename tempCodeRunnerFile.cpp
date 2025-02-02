@@ -1,0 +1,1 @@
+cin.ignore(1000, '\n'); // Ignore leftover invalid input
